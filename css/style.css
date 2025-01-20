@@ -46,6 +46,7 @@ header{
   box-sizing: border-box;
   border-radius: 100px;
   border-right-color: gold;
+  border-left-color: gold;
 }
 .header-nav a{
     text-decoration: none;
@@ -250,6 +251,7 @@ table {
     box-sizing: border-box;
     border-radius: 100px;
     border-right-color: gold;
+    border-left-color: gold;
   }
 
   .benefits-main{
