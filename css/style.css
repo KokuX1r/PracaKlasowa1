@@ -258,3 +258,21 @@ table {
   font-size: 30px;
   background-image: url(https://i.pinimg.com/736x/2b/9e/51/2b9e519f8418fb6f4886e16b773b26db.jpg);
   }
+
+.header-nav{
+  font-size: 40px;
+}
+
+.nav-second{
+  font-size: 30px;
+}
+
+.container{
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.ben-p{
+  color: black;
+}
